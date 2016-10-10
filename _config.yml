@@ -1,6 +1,7 @@
 # Site settings
 name: Khaja Mohammed
-description: "<p>Test Automation Architect @ SpotQA</p><p>Currently exploring frameworks and libraries built on top of Selenium Webdriver like Selenide, Omlet etc.,</p>"
+description: <p>Test Automation Architect @ SpotQA</p>
+<p>Currently exploring frameworks and libraries built on top of Selenium Webdriver like Selenide, Omlet etc.,</p>
 url: ""
 
 
